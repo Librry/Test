@@ -6,5 +6,5 @@ description: Test Description
 
 Test Content Here
 
-Test image ![](bike.jpg)
+Test image <img src="bike.jpg" alt="" data-size="original">
 
