@@ -6,9 +6,13 @@ description: Test Description
 
 Test Content Here
 
-Test image <img src="bike.jpg" alt="" data-size="original">
+Test image ![](https://raw.githubusercontent.com/Librry/Test/main/images/bike.jpg)
 
 
 
-<figure><img src="bike.jpg" alt="" width="375"><figcaption><p>Bike</p></figcaption></figure>
+
+
+<figure><img src="https://raw.githubusercontent.com/Librry/Test/main/images/bike.jpg" alt=""><figcaption><p>Bike Image</p></figcaption></figure>
+
+
 
